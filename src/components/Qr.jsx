@@ -18,7 +18,7 @@ function Qr() {
             backgroundColor: 'white',
             boxShadow: '0px 0px 10px 5px rgb(211, 211, 211, 0.4)',
         }}>
-            <img src="https://github.com/cat-codes/qr-code/blob/gh-pages/assets/image-qr-code-Vzk8NPce.png?raw=true"> style={{
+            <img src="../../assets/image-qr-code.png" style={{
                 height: '280px',
                 borderRadius: '5%',
             }}></img>
